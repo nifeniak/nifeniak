@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=nifeniak&label=Wyświetlenia%20profilu&color=0e75b6&style=plastic" alt="nifeniak" /> 
+  <img src="https://komarev.com/ghpvc/?username=nifeniak&label=Wyświetlenia%20profilu&color=0e75b6&style=plastic" alt="nifeniak" /> 
 </p>
 
 
@@ -38,11 +38,11 @@
 <p align="center"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   &emsp;
   <a href="https://www.rust-lang.org/" target="_blank"> 
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="rust" width="40" height="40"/>
   </a>
 </p>
 
@@ -54,7 +54,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>    
 </p>
 
 <br/>
@@ -69,7 +69,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nifeno's Statystyki" src="https://github-readme-stats.vercel.app/api?username=nifeniak&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nifeniak&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nifeniak" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nifeniak&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nifeniak" height="192px"/>
   <br/>
   <b>Note:</b> Najpopularniejsze języki to tylko metryka języków, z których składa się mój kod publiczny i nie odzwierciedla poziomu doświadczenia ani umiejętności.
   </p>
